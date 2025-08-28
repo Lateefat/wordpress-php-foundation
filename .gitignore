@@ -1,0 +1,23 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+license.txt
+readme.html
+wp-config.php
+wp-settings.php
+wp-load.php
+wp-login.php
+wp-signup.php
+xmlrpc.php
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore LocalWP logs and cache
+*.log
+*.sql
+*.zip
+/local-lightning-services/
+/conf/
+/logs/
