@@ -1,5 +1,12 @@
 # Lateefat’s WordPress PHP Sandbox
 
+# WordPress PHP Foundation
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Lateefat/wordpress-php-foundation)
+![GitHub repo size](https://img.shields.io/github/repo-size/Lateefat/wordpress-php-foundation)
+![GitHub issues](https://img.shields.io/github/issues/Lateefat/wordpress-php-foundation)
+
+
 Welcome to my 30-day WordPress PHP learning journey! This repository contains daily practice files, notes, and mini projects as I build a strong foundation in PHP and WordPress development.
 
 I can design websites with WordPress, but I want something more challenging, so I'm embarking on this journey.
