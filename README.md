@@ -31,6 +31,7 @@ I can design websites with WordPress, but I want something more challenging, so 
 - LocalWP for local WordPress setup
 - Visual Studio Code for coding
 - GitHub for version control and collaboration
+- Copilot
 
 ## 📂 Folder Structure
 
