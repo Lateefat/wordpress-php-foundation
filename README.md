@@ -5,6 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lateefat/wordpress-php-foundation)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Lateefat/wordpress-php-foundation)
 ![GitHub issues](https://img.shields.io/github/issues/Lateefat/wordpress-php-foundation)
+[![Powered by Copilot](https://img.shields.io/badge/powered%20by-Copilot-blue)](https://github.com/features/copilot)
 
 
 Welcome to my 30-day WordPress PHP learning journey! This repository contains daily practice files, notes, and mini projects as I build a strong foundation in PHP and WordPress development.
@@ -31,7 +32,7 @@ I can design websites with WordPress, but I want something more challenging, so 
 - LocalWP for local WordPress setup
 - Visual Studio Code for coding
 - GitHub for version control and collaboration
-- Copilot
+- Copilot, my AI companion
 
 ## 📂 Folder Structure
 
